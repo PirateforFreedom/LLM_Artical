@@ -1,5 +1,5 @@
-# 📓LLM_Artical
-Collection of the some good LLM articals
+# 📓LLM_Articals
+Collection of  some good LLM articals
 
 internal link:  https://github.com/PirateforFreedom/blog
 
