@@ -5,6 +5,7 @@ Collection of  some good LLM articals
 
 
 ## 📖  First collection in LLM-blog
+### 😅[Generative AI and intellectual property](https://www.ben-evans.com/benedictevans/2023/8/27/generative-ai-ad-intellectual-property).
 ### 😃[Ahead of AI #11: New Foundation Models](https://magazine.sebastianraschka.com/p/ahead-of-ai-11-new-foundation-models).
 ### 😀[Llama 2 learns to code](https://huggingface.co/blog/codellama).
 ### 😁[Introduction to Quantization cooked in 🤗 with 💗🧑‍🍳](https://huggingface.co/blog/merve/quantization).
