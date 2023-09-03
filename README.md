@@ -5,6 +5,7 @@ Collection of  some good LLM articals
 
 
 ## 📖  First collection in LLM-blog
+### 😉 [How do domain-specific chatbots work? An Overview of Retrieval Augmented Generation (RAG)](https://scriv.ai/guides/retrieval-augmented-generation-overview/).
 ###  😆[Understanding AI Agents in the age of LLMs!](https://twitter.com/akshay_pachaar/status/1697950190756585700).
 ### 😅[Generative AI and intellectual property](https://www.ben-evans.com/benedictevans/2023/8/27/generative-ai-ad-intellectual-property).
 ### 😃[Ahead of AI #11: New Foundation Models](https://magazine.sebastianraschka.com/p/ahead-of-ai-11-new-foundation-models).
