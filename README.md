@@ -5,6 +5,7 @@ Collection of  some good LLM articals
 
 
 ## 📖  First collection in LLM-blog
+###  😗 [Techniques for training large neural networks](https://openai.com/research/techniques-for-training-large-neural-networks).
 ###  😶 [The Transformer Blueprint: A Holistic Guide to the Transformer Neural Network Architecture](https://deeprevision.github.io/posts/001-transformer/).
 ###  😏 [Optimizing LLMs from a Dataset Perspective](https://lightning.ai/pages/community/tutorial/optimizing-llms-from-a-dataset-perspective/).
 ### 🫤[Fine-tune Falcon 180B with QLoRA and Flash Attention on Amazon SageMaker](https://www.philschmid.de/sagemaker-falcon-180b-qlora).
